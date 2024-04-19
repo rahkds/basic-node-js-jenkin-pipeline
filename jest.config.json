@@ -1,0 +1,7 @@
+{
+    "testEnvironment": "node",
+    "testMatch": [
+        "**/test/index.test.*",
+        "!**/src/**"
+    ]
+}
