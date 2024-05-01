@@ -1,6 +1,6 @@
 pipeline {
-    stage any
-    
+    agent any
+
     environment {
         CI = 'true' 
     }
